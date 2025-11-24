@@ -1,5 +1,5 @@
 # 💫 Hi I am Ahad!:
-💬 Currently Computer Science Student Studying At Brac University, Bangladesh<br>📫 Currently Exploring The Huge Field Of Computer Science To Find My Field Of Interest<br>🔭 I’m currently diving deep into fullstack development
+💬 Currently Computer Science Student Studying At Brac University, Bangladesh<br>📫 Currently Exploring The Huge Field Of Computer Science To Find My Field Of Interest<br>🔭 I’m currently diving deep into Machine Learning 
 
 
 ## 🌐 Socials:
